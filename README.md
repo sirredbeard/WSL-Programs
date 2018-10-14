@@ -6,7 +6,7 @@ If you'd like to chat about the Windows Subsystem for Linux (or have a question)
 
 ## About
 
-A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux. The official Microsoft repository for filing bugs, etc., is located at [Microsoft's BashOnWindows repo](https://github.com/Microsoft/BashOnWindows). This repo complements the offical one by providing a quick reference for how well programs run.
+A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux. The official Microsoft repository for filing bugs, etc., is located at [Microsoft's WSL repo](https://github.com/Microsoft/WSL). This repo complements the offical one by providing a quick reference for how well programs run.
 
 Please feel free to contribute programs you have tested to the table below. If you need help with the markdown, please review [this markdown primer from gamejolt](https://help.gamejolt.com/markdown).
 
